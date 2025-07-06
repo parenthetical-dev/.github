@@ -26,10 +26,6 @@ An anonymous time capsule storytelling platform documenting U.S. LGBTQ+ resilien
 ## Our Approach  
 While we empower our coding with artificial intelligence, we ensure every product we create is inherently and unmistakably human. AI accelerates our development process, but empathy, cultural understanding, and community needs drive every decision. The result is technology that doesn't just function—it connects, uplifts, and transforms.
 
-## Get In Touch  
-- **Website:** [parenthetical.dev](http://parenthetical.dev) 
-- [**Contact Us**](mailto:contact@parenthetical.dev)
-
 ---
 
 **Parenthetical:** Where every line of code is an act of care.
